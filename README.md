@@ -1,2 +1,2 @@
 # projects
-Mostly assignments
+Assembly assignments and personal projects
